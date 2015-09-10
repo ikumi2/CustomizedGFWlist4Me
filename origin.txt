@@ -23,6 +23,7 @@
 ||*.disquscdn.com
 ||v2ex.com
 ||blog.com
+||google.com.sg
 
 
 !--------------------Restricted--------------------
