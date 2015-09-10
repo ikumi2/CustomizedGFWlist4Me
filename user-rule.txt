@@ -1,8 +1,6 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 !------------------------Customizedly Added some personally used websites ignored by gfwlist------------------------  
-||mediafire.com
-||*.mediafire.com
 ||*.ed2000.com
 ||ed2000.com
 ||*.bttiantang.com

@@ -3874,8 +3874,6 @@ var rules = [
   "||googlesyndication.com", 
   "||github.com", 
   "||wikipedia.org", 
-  "||mediafire.com", 
-  "||*.mediafire.com", 
   "||*.ed2000.com", 
   "||ed2000.com", 
   "||*.bttiantang.com", 
