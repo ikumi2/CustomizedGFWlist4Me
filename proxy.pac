@@ -1753,7 +1753,6 @@ var domains = {
   "sendspace.com": 1, 
   "proxomitron.info": 1, 
   "allmovie.com": 1, 
-  "google.com": 1, 
   "badassjs.com": 1, 
   "howtoforge.com": 1, 
   "steel-storm.com": 1, 
