@@ -3878,7 +3878,6 @@ var rules = [
   "||*.ed2000.com", 
   "||ed2000.com", 
   "||*.bttiantang.com", 
-  "||bttiantang.com", 
   "||dw.com", 
   "||ftoow.com", 
   "||tumblr.com", 
