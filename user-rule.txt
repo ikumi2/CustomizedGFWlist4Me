@@ -1,9 +1,8 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 !------------------------Customizedly Added some personally used websites ignored by gfwlist------------------------  
-||*.ed2000.com
 ||ed2000.com
-||*.bttiantang.com
+||bttiantang.com
 ||dw.com
 ||ftoow.com
 ||tumblr.com
@@ -19,3 +18,4 @@
 ||v2ex.com
 ||blog.com
 ||*.amazonaws.com
+||draw.io
