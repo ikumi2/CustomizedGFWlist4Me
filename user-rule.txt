@@ -19,3 +19,4 @@
 ||blog.com
 ||*.amazonaws.com
 ||draw.io
+||howtogeek.com
