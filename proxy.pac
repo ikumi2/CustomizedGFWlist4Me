@@ -3906,7 +3906,7 @@ var rules = [
   "||*.amazonaws.com", 
   "||draw.io", 
   "||howtogeek.com", 
-  "||bloglovin.com"
+  "||*.bloglovin.com"
 ];
 
 /*
