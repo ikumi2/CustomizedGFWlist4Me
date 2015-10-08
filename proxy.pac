@@ -214,6 +214,7 @@ var rules = [
   "||apiary.io", 
   ".apigee.com", 
   "||apigee.com", 
+  "||appannie.com", 
   "appledaily.com", 
   "archive.is", 
   "||archive.org", 
@@ -909,6 +910,8 @@ var rules = [
   "etaiwannews.com", 
   "||etizer.org", 
   ".ettoday.net", 
+  ".eu.org", 
+  "||eu.org", 
   ".eulam.com", 
   "eventful.com", 
   "||exblog.jp", 
@@ -1278,8 +1281,10 @@ var rules = [
   "||gvt0.com", 
   "||gvt1.com", 
   "||html5rocks.com", 
+  "||nic.google", 
   "||panoramio.com", 
   "||recaptcha.net", 
+  "||registry.google", 
   "|http://sipml5.org/", 
   ".appspot.com", 
   "||appspot.com", 
@@ -3513,6 +3518,7 @@ var rules = [
   "wwitv.com", 
   "wzyboy.im/post/160", 
   ".x-berry.com", 
+  "||x-berry.com", 
   "||x-art.com", 
   "||x-wall.org", 
   "x1949x.com", 
@@ -3906,7 +3912,8 @@ var rules = [
   "||*.amazonaws.com", 
   "||draw.io", 
   "||howtogeek.com", 
-  "||*.bloglovin.com"
+  "||*.bloglovin.com", 
+  "||*.evernote.com"
 ];
 
 /*

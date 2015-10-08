@@ -21,3 +21,4 @@
 ||draw.io
 ||howtogeek.com
 ||*.bloglovin.com
+||*.evernote.com
