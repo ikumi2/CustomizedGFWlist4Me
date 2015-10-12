@@ -22,3 +22,4 @@
 ||howtogeek.com
 ||*.bloglovin.com
 ||*.evernote.com
+||www.mediafire.com
