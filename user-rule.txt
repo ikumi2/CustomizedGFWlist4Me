@@ -23,3 +23,5 @@
 ||*.bloglovin.com
 ||*.evernote.com
 ||www.mediafire.com
+||olarila.com
+||www.insanelymac.com
