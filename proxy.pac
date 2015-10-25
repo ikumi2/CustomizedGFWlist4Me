@@ -3913,7 +3913,11 @@ var rules = [
   "||draw.io", 
   "||howtogeek.com", 
   "||*.bloglovin.com", 
-  "||*.evernote.com"
+  "||*.evernote.com", 
+  "||www.mediafire.com", 
+  "||olarila.com", 
+  "||www.insanelymac.com", 
+  "||bt.byr.cn"
 ];
 
 /*
