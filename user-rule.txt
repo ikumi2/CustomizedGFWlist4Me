@@ -26,3 +26,5 @@
 ||olarila.com
 ||www.insanelymac.com
 ||bt.byr.cn
+||*.yahoo.com
+||hk.answers.yahoo.com
