@@ -28,3 +28,5 @@
 ||bt.byr.cn
 ||*.yahoo.com
 ||hk.answers.yahoo.com
+||www.gitbook.com
+||*.gitbook.io
