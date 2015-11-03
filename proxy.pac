@@ -3926,7 +3926,12 @@ var rules = [
   "||www.mediafire.com", 
   "||olarila.com", 
   "||www.insanelymac.com", 
-  "||bt.byr.cn"
+  "||bt.byr.cn", 
+  "||*.yahoo.com", 
+  "||hk.answers.yahoo.com", 
+  "||www.gitbook.com", 
+  "||*.gitbook.io", 
+  "||stackedit.io"
 ];
 
 /*
