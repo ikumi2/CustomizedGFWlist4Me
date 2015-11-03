@@ -30,3 +30,4 @@
 ||hk.answers.yahoo.com
 ||www.gitbook.com
 ||*.gitbook.io
+||stackedit.io
