@@ -31,3 +31,4 @@
 ||www.gitbook.com
 ||*.gitbook.io
 ||stackedit.io
+||workflowy.com
