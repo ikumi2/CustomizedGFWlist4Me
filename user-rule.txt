@@ -32,3 +32,4 @@
 ||*.gitbook.io
 ||stackedit.io
 ||workflowy.com
+||*.wikivoyage.org
