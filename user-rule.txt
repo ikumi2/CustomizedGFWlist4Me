@@ -33,3 +33,4 @@
 ||stackedit.io
 ||workflowy.com
 ||*.wikivoyage.org
+||*.ibm.com
