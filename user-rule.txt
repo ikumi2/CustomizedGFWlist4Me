@@ -34,3 +34,4 @@
 ||workflowy.com
 ||*.wikivoyage.org
 ||*.ibm.com
+||www.dreamincode.net
