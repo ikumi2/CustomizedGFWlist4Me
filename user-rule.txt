@@ -35,3 +35,4 @@
 ||*.wikivoyage.org
 ||*.ibm.com
 ||www.dreamincode.net
+||www.snippetsource.net
