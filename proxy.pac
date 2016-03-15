@@ -4526,7 +4526,6 @@ var rules = [
   "@@||taitung-house.gov.tw", 
   "@@||aliyun.com", 
   "@@||baidu.com", 
-  "@@||bt.byr.cn", 
   "@@||chinaso.com", 
   "@@|http://nrch.culture.tw/", 
   "@@||fonts.googleapis.com", 
