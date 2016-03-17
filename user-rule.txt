@@ -38,4 +38,3 @@
 ||www.dreamincode.net
 ||www.snippetsource.net
 ||forfrigg.com
-||interactivepython.org
