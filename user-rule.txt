@@ -1,6 +1,8 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 !------------------------Customizedly Added some personally used websites ignored by gfwlist------------------------  
+||*.fonts.googleapis.com
+||*.inoreader.com
 ||dl.google.com
 ||ed2000.com
 ||bttiantang.com
@@ -37,4 +39,9 @@
 ||*.ibm.com
 ||www.dreamincode.net
 ||www.snippetsource.net
+<<<<<<< HEAD
 ||forfrigg.com
+=======
+||forfrigg.com
+||*.inoreader.com
+>>>>>>> 09ed0c9d31c3c8a1b67314a49aae3a62c7253676
