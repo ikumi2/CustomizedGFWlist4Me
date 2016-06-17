@@ -39,9 +39,6 @@
 ||*.ibm.com
 ||www.dreamincode.net
 ||www.snippetsource.net
-<<<<<<< HEAD
-||forfrigg.com
-=======
+|| *.imgur.com
 ||forfrigg.com
 ||*.inoreader.com
->>>>>>> 09ed0c9d31c3c8a1b67314a49aae3a62c7253676
