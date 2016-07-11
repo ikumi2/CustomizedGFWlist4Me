@@ -1,4 +1,0 @@
-
-    [console_scripts]
-    gfwlist2pac = gfwlist2pac.main:main
-    
