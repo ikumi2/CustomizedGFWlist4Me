@@ -39,6 +39,6 @@
 ||*.ibm.com
 ||www.dreamincode.net
 ||www.snippetsource.net
-|| *.imgur.com
+||*.imgur.com
 ||forfrigg.com
 ||*.inoreader.com
