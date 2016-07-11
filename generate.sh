@@ -8,7 +8,7 @@ git add .
 curl -x SOCKS5://127.0.0.1:1080 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt -o gfwlist.txt
 base64 -D gfwlist.txt > gfwlist
 #pushd .. && \ Used for testing subfolder switchy
-PYTHONPATH=. python gfwlist2pac/main.py  -i gfwlist -f proxy.pac -p 'SOCKS5 127.0.0.1:1080'  --user-rule user-rule.txt --precise&& \
+PYTHONPATH=. python gfwlist2pac/main.py  -i gfwlist -f proxy.pac -p 'SOCKS5 127.0.0.1:1080'  --user-rule user-rule.txt --precise&& 
 #popd && \
 #cat proxy.pac && \
 #cat proxy.pac test_case.js > /tmp/test.js && \

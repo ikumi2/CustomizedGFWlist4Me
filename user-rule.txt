@@ -42,3 +42,4 @@
 ||*.imgur.com
 ||forfrigg.com
 ||*.inoreader.com
+||login.ng.bluemix.net

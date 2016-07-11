@@ -5338,7 +5338,8 @@ var rules = [
   "||www.snippetsource.net", 
   "||*.imgur.com", 
   "||forfrigg.com", 
-  "||*.inoreader.com"
+  "||*.inoreader.com", 
+  "||login.ng.bluemix.net"
 ];
 
 /*
