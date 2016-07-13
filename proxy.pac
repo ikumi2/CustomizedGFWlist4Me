@@ -5336,10 +5336,12 @@ var rules = [
   "||*.ibm.com", 
   "||www.dreamincode.net", 
   "||www.snippetsource.net", 
-  "||*.imgur.com", 
   "||forfrigg.com", 
   "||*.inoreader.com", 
-  "||login.ng.bluemix.net"
+  "||login.ng.bluemix.net", 
+  "||*.imgur.com", 
+  "||p.imgur.com/*^", 
+  "||imgur.com/gallery/action/vote/*"
 ];
 
 /*

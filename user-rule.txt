@@ -39,7 +39,10 @@
 ||*.ibm.com
 ||www.dreamincode.net
 ||www.snippetsource.net
-||*.imgur.com
 ||forfrigg.com
 ||*.inoreader.com
 ||login.ng.bluemix.net
+! Imager
+||*.imgur.com
+||p.imgur.com/*^
+||imgur.com/gallery/action/vote/*
