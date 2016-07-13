@@ -5340,7 +5340,7 @@ var rules = [
   "||*.inoreader.com", 
   "||login.ng.bluemix.net", 
   "||*.imgur.com", 
-  "||p.imgur.com/lumbar.gif^", 
+  "||p.imgur.com/lumbar.gif?a=*", 
   "||imgur.com/gallery/action/vote/*"
 ];
 
