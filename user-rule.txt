@@ -44,5 +44,6 @@
 ||login.ng.bluemix.net
 ! Imager
 ||*.imgur.com
-||p.imgur.com/lumbar.gif?a=*
 ||imgur.com/gallery/action/vote/*
+||brew.sh
+||imgur.com/a/x0EkC/fav.json
