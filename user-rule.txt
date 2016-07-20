@@ -46,4 +46,4 @@
 ||*.imgur.com
 ||imgur.com/gallery/action/vote/*
 ||brew.sh
-||imgur.com/a/x0EkC/fav.json
+||imgur.com/*/fav.json
