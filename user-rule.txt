@@ -47,3 +47,7 @@
 ||imgur.com/gallery/action/vote/*
 ||brew.sh
 ||imgur.com/*/fav.json
+||*.googleusercontent.com
+||*.gstatic.com
+||youtube.com
+||www.youtube.com
