@@ -51,3 +51,4 @@
 ||*.gstatic.com
 ||youtube.com
 ||www.youtube.com
+||*.disqus.com
